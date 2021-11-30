@@ -1,4 +1,7 @@
-# personal_website
+# My personal website
+
+## Status of last deployment:
+<img src="https://github.com/abelsharman/personal_website/workflows/PersonalWebsite/badge.svg?branch=master">
 
 ## Build Setup
 
